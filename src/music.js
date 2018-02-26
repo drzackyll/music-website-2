@@ -24,12 +24,9 @@ const Music = () => {
             <h6>7. Beachcomber</h6>
             <h6>8. So Much to Lose</h6>
             <h6>9. Can't Hide My Delight</h6><br />
-            <a href="http://zackadams.limitedrun.com/" target="_blank" rel="noopener noreferrer"><button type="button" className="btn btn-outline-success">Preorder Now</button></a><br />
-
+            <h4>Preorder Soon</h4>
+            {/* <a href="http://zackadams.limitedrun.com/" target="_blank" rel="noopener noreferrer"><button type="button" className="btn btn-outline-success">Preorder Now</button></a><br /> */}
           </div>
-          {/* <div style={{textAlign: "center"}}>
-            <iframe src="https://open.spotify.com/embed?uri=spotify:album:2FZmXJunK6q8gfNWsiBJNe" width="300" height="380" frameBorder="0" allowtransparency="true" title="Forethought"></iframe>
-          </div> */}
         </div>
       </div>
     </div>
