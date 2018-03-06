@@ -1,6 +1,7 @@
 import React from 'react'
 import jQuery from 'jquery'
 import '../src/bootstrap/css/bootstrap.css'
+import '../src/bootstrap/js/bootstrap.js'
 
 (function ($) {
   $(document).ready(function(){

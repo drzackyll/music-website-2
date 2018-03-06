@@ -1,10 +1,13 @@
+/* eslint-disable */
+
+import $ from 'jquery'
+import Popper from 'popper.js'
 /*!
   * Bootstrap v4.0.0-beta.2 (https://getbootstrap.com)
   * Copyright 2011-2017 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
   */
 var bootstrap = (function (exports,$,Popper) {
-'use strict';
 
 $ = $ && $.hasOwnProperty('default') ? $['default'] : $;
 Popper = Popper && Popper.hasOwnProperty('default') ? Popper['default'] : Popper;
