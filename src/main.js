@@ -5,6 +5,7 @@ import About from './about'
 import Heading from './heading'
 import Contact from './contact'
 import Video from './video'
+import Shows from './shows'
 // import Epk from './epk'
 import '../src/bootstrap/css/bootstrap.css'
 
@@ -17,6 +18,7 @@ class Main extends Component {
         <Contact id="contact" /><br /><br />
         <Music id="music" /> <br />
         <Video id="video" /> <br />
+        <Shows id="shows" /> <br />
         <About id="about" /> <br />
         <footer style={{textAlign: 'center'}}>&copy; {(new Date().getFullYear())} Zack Adams</footer>
       </div>
