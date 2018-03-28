@@ -54,6 +54,9 @@ let Menu = () => {
             <a className="nav-link" href="#video">Video</a>
           </li>
           <li className="nav-item" onClick={scrollFunction}>
+            <a className="nav-link" href="#shows">Shows</a>
+          </li>
+          <li className="nav-item" onClick={scrollFunction}>
             <a className="nav-link" href="#about">About</a>
           </li>
         </ul>
