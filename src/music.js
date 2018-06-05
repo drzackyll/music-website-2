@@ -22,7 +22,8 @@ const Music = () => {
             <h6>7. Beachcomber</h6>
             <h6>8. So Much to Lose</h6>
             <h6>9. Can't Hide My Delight</h6>
-            <a href="http://fanlink.to/DtheL" target="_blank" rel="noopener noreferrer"><button type="button" className="btn btn-outline-success">Listen Now</button></a><br /><br />
+            <a href="http://fanlink.to/DtheL" target="_blank" rel="noopener noreferrer"><button type="button" className="btn btn-outline-success">Listen Now</button></a>
+            <a href="http://zackadams.limitedrun.com/" target="_blank" rel="noopener noreferrer"><button type="button" className="btn btn-outline-success">Buy CD/Vinyl</button></a><br /><br />
           </div>
         </div>
       </div>
