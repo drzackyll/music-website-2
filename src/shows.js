@@ -8,14 +8,28 @@ let Shows = () => {
           <h2>Shows</h2>
           <div className="row">
             <div className="col-md-4">
+              10 June 2018<br />
+              10:00PM
+            </div>
+            <div className="col-md-5">
+              <a href="http://www.rockwoodmusichall.com" target="_blank" rel="noopener noreferrer">Rockwood Music Hall Stage 2</a><br />
+              (Solo Acoustic)
+            </div>
+            <div className="col-md-3">
+              <a role="button" href="http://www.rockwoodmusichall.com" className="btn btn-outline-success">FREE</a>
+            </div>
+          </div>
+          <hr />
+          <div className="row">
+            <div className="col-md-4">
               5 June 2018<br />
               8:00PM
             </div>
             <div className="col-md-5">
-              <a href="http://www.facebook.com/scenesmedia/" target="_blank" rel="noopener noreferrer">SCENES Facebook Live</a><br />
+              <a href="https://www.facebook.com/scenesmedia/videos/1813442392298905/" target="_blank" rel="noopener noreferrer">SCENES Facebook Live</a><br />
             </div>
             <div className="col-md-3">
-              <a role="button" href="http://www.facebook.com/scenesmedia/" className="btn btn-outline-success">Online</a>
+              <a role="button" href="https://www.facebook.com/scenesmedia/videos/1813442392298905/" className="btn btn-outline-success">Online</a>
             </div>
           </div>
           <hr />
